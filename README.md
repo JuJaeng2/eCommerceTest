@@ -1,6 +1,8 @@
 # 개요
 간단한 커머스 프로젝트
+
 Use : Spring, Jpa, Mysql, Redis, Docker, Aws
+
 Goal : 셀러와 구매자 사이를 중계해 주는 서버를 구축한다.
 
 ## 회원
